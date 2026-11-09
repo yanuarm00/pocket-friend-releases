@@ -1,8 +1,8 @@
 {
- "versionCode": 42,
- "versionName": "0.4.3",
- "size": 15722516,
- "sha256": "5348461aa1d34ad7f49452a52916cc5a679aeecec088c2880b2232e07ce4a854",
- "notes": "New look: Pocket Pop Light colours, Atkinson font, curved dock with blur.\nNew Home with BOBO's face, To sort and weekly card.\nSettings pages redesigned; Ask can continue chats started on BOBO.",
+ "versionCode": 43,
+ "versionName": "0.4.4",
+ "size": 15755692,
+ "sha256": "ac50ab9a5312692d270c5e6c027019104ec826409382cca8d8c789ef551417ff",
+ "notes": "New: Error report. Read it first, then send it with your share menu. Keys and passwords are never included.\nTo-do shows the time on each row and a big time on Next up.\nAsk: save a full answer to Notes.",
  "url": "https://raw.githubusercontent.com/yanuarm00/pocket-friend-releases/main/app/PocketFriend.apk"
 }
