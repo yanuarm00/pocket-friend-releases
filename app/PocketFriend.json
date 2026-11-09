@@ -1,8 +1,8 @@
 {
- "versionCode": 43,
- "versionName": "0.4.4",
- "size": 15755692,
- "sha256": "ac50ab9a5312692d270c5e6c027019104ec826409382cca8d8c789ef551417ff",
- "notes": "New: Error report. Read it first, then send it with your share menu. Keys and passwords are never included.\nTo-do shows the time on each row and a big time on Next up.\nAsk: save a full answer to Notes.",
+ "versionCode": 44,
+ "versionName": "0.4.5",
+ "size": 15755696,
+ "sha256": "b5133b0d450f5289304609edd440fa4c5e378a55204b7f86634c4482e265f329",
+ "notes": "To sort: listen to the recording before you decide, and see the time BOBO found in it.",
  "url": "https://raw.githubusercontent.com/yanuarm00/pocket-friend-releases/main/app/PocketFriend.apk"
 }
