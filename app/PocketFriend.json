@@ -1,8 +1,8 @@
 {
- "versionCode": 44,
- "versionName": "0.4.5",
- "size": 15755696,
- "sha256": "b5133b0d450f5289304609edd440fa4c5e378a55204b7f86634c4482e265f329",
- "notes": "To sort: listen to the recording before you decide, and see the time BOBO found in it.",
+ "versionCode": 45,
+ "versionName": "0.4.6",
+ "size": 15772080,
+ "sha256": "23603e4f6995be4de236973e96c9a185b9604d069f47a021481d2f10aadf1c11",
+ "notes": "To-dos can repeat: daily, on weekdays or every week (shown as \"Every Tue\"). BOBO's name is now up to 8 letters. App update: switch automatic checks on or off (checks only on Wi-Fi).",
  "url": "https://raw.githubusercontent.com/yanuarm00/pocket-friend-releases/main/app/PocketFriend.apk"
 }
