@@ -1,8 +1,8 @@
 {
- "versionCode": 47,
- "versionName": "0.4.8",
+ "versionCode": 48,
+ "versionName": "0.4.9",
  "size": 15804848,
- "sha256": "d827e3c2511eabd14c4754e5e22fa3891cb549f430b3622779879510ec9d2618",
- "notes": "Pages now scroll all the way up to the rounded top edge, with no empty band where content was cut off.\nAsk: the Memory/Persona row and the question box float over the chat, blurred like the dock bar.",
+ "sha256": "bb1b70c2dbee019de51ee5dc7944bba7604fac516c2e95519ee03c5bef1412c3",
+ "notes": "Ask: the blur behind the top row and the question box is smoother and no longer lets sharp text show through.",
  "url": "https://raw.githubusercontent.com/yanuarm00/pocket-friend-releases/main/app/PocketFriend.apk"
 }
