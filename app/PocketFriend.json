@@ -1,8 +1,8 @@
 {
- "versionCode": 46,
- "versionName": "0.4.7",
+ "versionCode": 47,
+ "versionName": "0.4.8",
  "size": 15804848,
- "sha256": "a943d4547630e206423753cf5d5295d06ff2a1e863fda2df182ca8ecb95a43fd",
- "notes": "Clearer error screens: pairing that can't find BOBO, and BOBO offline, now say what happened and what to tap next.\nOne look for every \"Delete?\" question, with Cancel as the safe button.\nKeyboard and switch users see an orange focus ring on everything they can tap.\nBOBO care: one \"Update\" button with a progress bar, as in the design. Installing from a file moved under \"Install from a file\".\nYour device's own name now shows everywhere (menu titles, help text, chat labels), not \"BOBO\".",
+ "sha256": "d827e3c2511eabd14c4754e5e22fa3891cb549f430b3622779879510ec9d2618",
+ "notes": "Pages now scroll all the way up to the rounded top edge, with no empty band where content was cut off.\nAsk: the Memory/Persona row and the question box float over the chat, blurred like the dock bar.",
  "url": "https://raw.githubusercontent.com/yanuarm00/pocket-friend-releases/main/app/PocketFriend.apk"
 }
