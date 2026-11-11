@@ -1,8 +1,8 @@
 {
- "versionCode": 45,
- "versionName": "0.4.6",
- "size": 15772080,
- "sha256": "23603e4f6995be4de236973e96c9a185b9604d069f47a021481d2f10aadf1c11",
- "notes": "To-dos can repeat: daily, on weekdays or every week (shown as \"Every Tue\"). BOBO's name is now up to 8 letters. App update: switch automatic checks on or off (checks only on Wi-Fi).",
+ "versionCode": 46,
+ "versionName": "0.4.7",
+ "size": 15804848,
+ "sha256": "a943d4547630e206423753cf5d5295d06ff2a1e863fda2df182ca8ecb95a43fd",
+ "notes": "Clearer error screens: pairing that can't find BOBO, and BOBO offline, now say what happened and what to tap next.\nOne look for every \"Delete?\" question, with Cancel as the safe button.\nKeyboard and switch users see an orange focus ring on everything they can tap.\nBOBO care: one \"Update\" button with a progress bar, as in the design. Installing from a file moved under \"Install from a file\".\nYour device's own name now shows everywhere (menu titles, help text, chat labels), not \"BOBO\".",
  "url": "https://raw.githubusercontent.com/yanuarm00/pocket-friend-releases/main/app/PocketFriend.apk"
 }
