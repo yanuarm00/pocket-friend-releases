@@ -1,8 +1,8 @@
 {
- "versionCode": 48,
- "versionName": "0.4.9",
- "size": 15804848,
- "sha256": "bb1b70c2dbee019de51ee5dc7944bba7604fac516c2e95519ee03c5bef1412c3",
- "notes": "Ask: the blur behind the top row and the question box is smoother and no longer lets sharp text show through.",
+ "versionCode": 49,
+ "versionName": "0.4.10",
+ "size": 15804844,
+ "sha256": "08417feca14fba70104d8eb5849d0aa9a10bb63be8b0146b867a843fa25e0522",
+ "notes": "Ask: the frosted top row and question box now span the full width and run down under the dock, with a soft frosted-glass look.",
  "url": "https://raw.githubusercontent.com/yanuarm00/pocket-friend-releases/main/app/PocketFriend.apk"
 }
